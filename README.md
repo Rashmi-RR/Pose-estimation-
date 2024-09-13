@@ -16,7 +16,7 @@ Prerequisites:
     To create a Python code that captures real-time video, detects body pose using a pose estimation model, and displays a message when the right leg forms a 180-degree angle,
     you can use libraries like OpenCV for video capture and MediaPipe for pose estimation.
 
-1 .Install the required libraries:
+ Install the libraries:
 
         pip install opencv-python mediapipe
 output:
